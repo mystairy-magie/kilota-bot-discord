@@ -1,0 +1,96 @@
+<style>
+    @font-face {
+        font-family: Whitney;
+        src: url('https://discordapp.com/assets/6c6374bad0b0b6d204d8d6dc4a18d820.woff');
+        font-weight: 300;
+    }
+
+    @font-face {
+        font-family: Whitney;
+        src: url('https://discordapp.com/assets/e8acd7d9bf6207f99350ca9f9e23b168.woff');
+        font-weight: 400;
+    }
+
+    @font-face {
+        font-family: Whitney;
+        src: url('https://discordapp.com/assets/3bdef1251a424500c1b3a78dea9b7e57.woff');
+        font-weight: 500;
+    }
+
+    @font-face {
+        font-family: Whitney;
+        src: url('https://discordapp.com/assets/be0060dafb7a0e31d2a1ca17c0708636.woff');
+        font-weight: 600;
+    }
+
+    @font-face {
+        font-family: Whitney;
+        src: url('https://discordapp.com/assets/8e12fb4f14d9c4592eb8ec9f22337b04.woff');
+        font-weight: 700;
+    }
+
+    body {
+        background-color: #36393e;
+        color: #dcddde;
+        font-family: "Whitney", "Helvetica Neue", Helvetica, Arial, sans-serif;
+        font-size: 16px;
+        margin: 0;
+        padding: 0;
+    }
+
+    .message-container {
+        display: flex;
+        flex-direction: column;
+        padding-left: 15px;
+    }
+
+    .copyright {
+        position: fixed;
+        left: 0;
+        bottom: 0;
+        width: 100%;
+        background-color: red;
+        color: white;
+        text-align: center;
+    }
+
+    .parent-container {
+        padding: 25px;
+        display: flex;
+    }
+
+    .avatar {
+        border-radius: 50%;
+        height: 50px;
+        width: 50px;
+    }
+
+    .info__guild-name {
+        font-size: 1.4em;
+    }
+
+    .info {
+        display: flex;
+        max-width: 100%;
+        margin: 0 5px 10px;
+    }
+
+    .info__channel-name {
+        font-size: 1.2em;
+    }
+
+    .info__guild-icon {
+        max-width: 88px;
+        max-height: 88px;
+    }
+
+    .info__metadata {
+        flex: 1;
+        margin-left: 10px;
+    }
+
+    .info__guild-icon-container {
+        flex: 0;
+    }
+</style><div class="info"><div class="info__guild-icon-container"><img class="info__guild-icon" src="https://cdn.discordapp.com/attachments/733378152600043581/823628798494769202/image0-4.png"></div><div class="info__metadata"><div class="info__guild-name">SeasonSky - Transcript</div><div class="info__channel-name">ticket-tchoupi</div></div></div><div class="parent-container"><div class="avatar-container"><img src="https://cdn.discordapp.com/avatars/804769354519674897/03859061ab37b0cc1edd28c38b0641b3.webp" class="avatar"></div><div class="message-container"><span>SeasonSky#5488 8/30/2021 3:40:37 PM</span><span></span></div></div><div class="parent-container"><div class="avatar-container"><img src="https://cdn.discordapp.com/avatars/673471707780087808/5e0aa758f327b6a72fa39cebed338f5d.webp" class="avatar"></div><div class="message-container"><span>Tchoupi#4531 8/30/2021 3:41:01 PM</span><span>je me suis fais ban pour autoclic alors que je spam cliquez</span></div></div><div class="parent-container"><div class="avatar-container"><img src="https://cdn.discordapp.com/avatars/673471707780087808/5e0aa758f327b6a72fa39cebed338f5d.webp" class="avatar"></div><div class="message-container"><span>Tchoupi#4531 8/30/2021 4:15:03 PM</span><span>Situation : je farmé des lvl de chasseurs en tuant des squelettes *(en spam cliquant)* sur l'is de Koeeb et je regardé en même temps une vidéo sur mon tel, ce qui explique le fait que quand Mtrix_12 ma téléporte j'ai continue a spam cliquez sans m’apercevoir que je tué plus rien.
+c'est seulement quand j'ai relevé la tete vers mon écrans que j'ai vu que je cliqué pour rien</span></div></div><div class="parent-container"><div class="avatar-container"><img src="https://cdn.discordapp.com/avatars/673471707780087808/5e0aa758f327b6a72fa39cebed338f5d.webp" class="avatar"></div><div class="message-container"><span>Tchoupi#4531 8/30/2021 4:16:27 PM</span><span>ensuite je me suis remis aux squelettes 1min puis je suis parti au donjon et c'est la que je me suis fais ban</span></div></div><div class="parent-container"><div class="avatar-container"><img src="https://cdn.discordapp.com/avatars/627781408768655361/a_ed5776dcd5e6f1eb9e0a437873397770.webp" class="avatar"></div><div class="message-container"><span>Mtrix_12#0001 8/30/2021 6:37:26 PM</span><span>Je t'ai MP ingame sans réponse et lorsque je t'ai téléporté tu n'as pas réagi</span></div></div><div class="parent-container"><div class="avatar-container"><img src="https://cdn.discordapp.com/avatars/627781408768655361/a_ed5776dcd5e6f1eb9e0a437873397770.webp" class="avatar"></div><div class="message-container"><span>Mtrix_12#0001 8/30/2021 6:39:25 PM</span><span>(en continuant de cliquer dans le vide)</span></div></div><div class="parent-container"><div class="avatar-container"><img src="https://cdn.discordapp.com/avatars/673471707780087808/5e0aa758f327b6a72fa39cebed338f5d.webp" class="avatar"></div><div class="message-container"><span>Tchoupi#4531 8/30/2021 6:39:49 PM</span><span>bah oui je regardais pas mon ecrans</span></div></div><div class="parent-container"><div class="avatar-container"><img src="https://cdn.discordapp.com/avatars/673471707780087808/5e0aa758f327b6a72fa39cebed338f5d.webp" class="avatar"></div><div class="message-container"><span>Tchoupi#4531 8/30/2021 6:40:30 PM</span><span>je ccontinué de cliquez mes j'étais en train de regardez une vidéo sur mon tel donc je regardé pas mon écrans</span></div></div><div class="parent-container"><div class="avatar-container"><img src="https://cdn.discordapp.com/avatars/627781408768655361/a_ed5776dcd5e6f1eb9e0a437873397770.webp" class="avatar"></div><div class="message-container"><span>Mtrix_12#0001 8/30/2021 11:22:14 PM</span><span>C'est étrange quand même car bon tu tapais dans le vide un bon moment et quand je t'ai TP tu n'a pas réagi et continué de tapper dans le vide. Je comprends que tu regardais une vidéo mais genre si tu cliques en même temps tu regardes ton pc de temps en temps un minimum</span></div></div><div class="parent-container"><div class="avatar-container"><img src="https://cdn.discordapp.com/avatars/627781408768655361/a_ed5776dcd5e6f1eb9e0a437873397770.webp" class="avatar"></div><div class="message-container"><span>Mtrix_12#0001 8/30/2021 11:22:39 PM</span><span>Pareil pour le MP en soit</span></div></div><div class="parent-container"><div class="avatar-container"><img src="https://cdn.discordapp.com/avatars/673471707780087808/5e0aa758f327b6a72fa39cebed338f5d.webp" class="avatar"></div><div class="message-container"><span>Tchoupi#4531 8/30/2021 11:30:26 PM</span><span>bah non je vois pas pq regarder mon ecran alors que je sais que suis en train de cliquez pour tuez des squelette</span></div></div><div class="parent-container"><div class="avatar-container"><img src="https://cdn.discordapp.com/avatars/673471707780087808/5e0aa758f327b6a72fa39cebed338f5d.webp" class="avatar"></div><div class="message-container"><span>Tchoupi#4531 8/30/2021 11:31:14 PM</span><span>surtout que je regarder la nouvelle vidéo d'Amixem donc j'étais a fond dedans XD</span></div></div><div class="parent-container"><div class="avatar-container"><img src="https://cdn.discordapp.com/avatars/627781408768655361/a_ed5776dcd5e6f1eb9e0a437873397770.webp" class="avatar"></div><div class="message-container"><span>Mtrix_12#0001 8/30/2021 11:33:09 PM</span><span>Oui mais t'es quand même devant ton écran un minimum genre tu vois quand le décor autour de toi change soudainement</span></div></div><div class="parent-container"><div class="avatar-container"><img src="https://cdn.discordapp.com/avatars/627781408768655361/a_ed5776dcd5e6f1eb9e0a437873397770.webp" class="avatar"></div><div class="message-container"><span>Mtrix_12#0001 8/30/2021 11:33:42 PM</span><span>Bref, je te unban demain vers 12h, ca fera environ 1j de ban mais la prochaine fois fait un minimum attention aux appels dans le chat</span></div></div><div class="parent-container"><div class="avatar-container"><img src="https://cdn.discordapp.com/avatars/673471707780087808/5e0aa758f327b6a72fa39cebed338f5d.webp" class="avatar"></div><div class="message-container"><span>Tchoupi#4531 8/30/2021 11:36:06 PM</span><span>ok je ferais plus gaffe la prochaine fois (je regarderais pas de vidéo au moins je regarderais tjr mon écrans 😉 )</span></div></div><div class="parent-container"><div class="avatar-container"><img src="https://cdn.discordapp.com/avatars/627781408768655361/a_ed5776dcd5e6f1eb9e0a437873397770.webp" class="avatar"></div><div class="message-container"><span>Mtrix_12#0001 8/31/2021 11:36:56 AM</span><span>&lt;@!673471707780087808&gt; Ton pseudo ingame ?</span></div></div><div class="parent-container"><div class="avatar-container"><img src="https://cdn.discordapp.com/avatars/673471707780087808/5e0aa758f327b6a72fa39cebed338f5d.webp" class="avatar"></div><div class="message-container"><span>Tchoupi#4531 8/31/2021 11:37:10 AM</span><span>Tchoupi3107</span></div></div><div class="parent-container"><div class="avatar-container"><img src="https://cdn.discordapp.com/avatars/627781408768655361/a_ed5776dcd5e6f1eb9e0a437873397770.webp" class="avatar"></div><div class="message-container"><span>Mtrix_12#0001 8/31/2021 11:37:25 AM</span><span>Good, tu peux close et fait attention la prochaine fois</span></div></div><div class="parent-container"><div class="avatar-container"><img src="https://cdn.discordapp.com/avatars/673471707780087808/5e0aa758f327b6a72fa39cebed338f5d.webp" class="avatar"></div><div class="message-container"><span>Tchoupi#4531 8/31/2021 11:37:36 AM</span><span>ok mrc</span></div></div><div class="parent-container"><div class="avatar-container"><img src="https://cdn.discordapp.com/avatars/804769354519674897/03859061ab37b0cc1edd28c38b0641b3.webp" class="avatar"></div><div class="message-container"><span>SeasonSky#5488 8/31/2021 11:37:44 AM</span><span></span></div></div>
